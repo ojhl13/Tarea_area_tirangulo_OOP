@@ -1,2 +1,2 @@
-# fundamenots_ING_SW
-programas y tareas de fundamentos de ingeneira de software
+# tarea del area del triangulo con arquitectura de OOP
+calculador de area de triangulo
